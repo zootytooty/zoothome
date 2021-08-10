@@ -1,4 +1,4 @@
-# How-To
+# Zoot
 
 Zoot is still learning but is here to help where it can. Currently the support conversations are:
 
